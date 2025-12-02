@@ -33,6 +33,7 @@ SOURCE_DIR_MAP = {
     "SBS News (Australia)": "sbs",
     "BBC 中文": "bbc-chinese",
     "商業電台": "commercial-radio",
+    "NOW 新聞報導": "now-news",
 }
 
 def main():
