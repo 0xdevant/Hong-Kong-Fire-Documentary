@@ -30,7 +30,7 @@ SOURCE_DIR_MAP = {
     "Points Media": "points-media",
     "CNN": "cnn",
     "CNN News": "cnn",
-    "Now News": "now-news",
+    "NOW 新聞報導": "now-news",
 }
 
 

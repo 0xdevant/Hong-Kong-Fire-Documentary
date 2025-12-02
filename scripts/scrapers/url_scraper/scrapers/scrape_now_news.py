@@ -40,4 +40,4 @@ def scrape():
         params['pageNo'] += 1
         has_next = (len(articles) == page_size)
     
-    return ('Now News', results)
+    return ('NOW 新聞報導', results)
